@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Earth Sciences, Utrecht University, 2014
+* M.Sc. in Earth, Structure and Dynamics, Utrecht University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - present: PhD-candidate
+  * Mantle Dynamics & Theoratical Geophysics
+  * Utrecht University
+  * Supervisor: Hinsbergen, Spakman, Thieulot
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Junior Teacher
+  * Utrecht University
+
+* 2014-2015: High School Teacher
+  * Mathematics & Physics
+  * [Masterskip Wylde Swan](https://masterskip.com)
   
 Skills
 ======
