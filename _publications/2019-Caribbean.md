@@ -1,7 +1,7 @@
 ---
 title: "The Caribbean and Farallon plates connected: Constraints from stratigraphy and paleomagnetism of the Nicoya Peninsula, Costa Rica"
 collection: publications
-authors: Boschman, L.M., van der Wiel, E.
+authors: 'Boschman, L.M.,<b> van der Wiel, E. </b>, Flores, K.E., Langereis, C.G., van Hinsbergen, D.J.'
 permalink: /publication/MSc-thesis-Costa-Rica
 #excerpt: 'Published work on reconstructions of the western Caribbean, with constrains from paleomagnetism.'
 date: 2019-08-01
